@@ -38,7 +38,7 @@ summary_counter=0
 col1, col2 = st.columns(2)
 
 
-# StreamLit app
+# Streamlit app
 st.subheader('RSS Feed Summarizer')
 "Summarize articles into a few lines."
 
