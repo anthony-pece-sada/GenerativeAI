@@ -1,1 +1,1 @@
-# GenerativeAI
+# Generative AI - RSS Feed Summarizer
