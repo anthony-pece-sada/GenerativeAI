@@ -1,6 +1,6 @@
 # RSS Feed Summarizer
 
-Unordered
+Description
 
 + Application accepts an RSS Feed URL and displays short summaries of the first X articles, 3-4 sentences each
 
