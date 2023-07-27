@@ -39,13 +39,11 @@ col1, col2 = st.columns(2)
 
 
 # StreamLit app
-#"# RSS Feed Summarizer"
-#"### Summarize articles in an RSS feed in a few lines."
-
 st.subheader('RSS Feed Summarizer')
-st.subheader('Summarize articles into a few lines.')
+"Summarize articles into a few lines."
 
 url = st.text_input("URL", label_visibility="collapsed")
+"e.g. https://www.bleepingcomputer.com/feed/ "
 
 
 # Propmt Design
